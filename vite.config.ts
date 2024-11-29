@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/prdb/',
+  base: '/sb1-rcmd41/',
   build: {
     outDir: 'dist',
     sourcemap: true,
